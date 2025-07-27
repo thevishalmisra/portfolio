@@ -2,7 +2,7 @@
 
 A modern and responsive developer portfolio built using **React**, **Tailwind CSS**, and **Vite**. Deployed with **Vercel**.
 
-🔗 **Live Preview**: [portfolio-phi-topaz-91.vercel.app](https://portfolio-phi-topaz-91.vercel.app)
+🔗 **Live Preview**: [portfolio-phi-topaz-91.vercel.app](https://portfolio-phi-topaz-91.vercel.app)(not working)
 
 ---
 
